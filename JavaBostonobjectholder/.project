@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JavaBostonobjectholder</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/javaGUIJButton/pic1.jpg</name>
+			<type>1</type>
+			<location>/Users/alexander.fournier/Documents/javapics/pic1.jpg</location>
+		</link>
+		<link>
+			<name>src/javaGUIJButton/pic2.jpg</name>
+			<type>1</type>
+			<location>/Users/alexander.fournier/Documents/javapics/pic2.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
